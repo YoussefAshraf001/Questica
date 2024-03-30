@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+.search {
+  margin-top: 0%;
+  width: 80%;
+  padding-bottom: 20px;
+  /* border: solid;
+  border-radius: 25px; */
+}

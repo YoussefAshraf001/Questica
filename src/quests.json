@@ -1,0 +1,82 @@
+[
+  {
+    "catagory": " 🖌️ UI/UX",
+    "title": "[Q100] Management UX",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 6,500 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🛠️ Backend",
+    "title": "[Q101] Management APIs",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 4,200 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🎮 Game Design",
+    "title": "[Q102] Pharaohs Game Story",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 3,000 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "⚛ Frontend",
+    "title": "[Q103] Scorecard UI ",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 3,400 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🛠️ Backend",
+    "title": "[Q104] Submission APIs",
+    "text": "Brief Content",
+    "status": "On-Going",
+    "reward": "🏆 4,200 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🎮 Game Design",
+    "title": "[Q105] Game Design",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 6,000 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "⚛ Frontend",
+    "title": "[Q106] Page UI",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 4,000 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🎮 Game Dev",
+    "title": "[Q107] Game Development",
+    "text": "Brief Content",
+    "status": "Finished",
+    "reward": "🏆 6,000 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🛠️ DevOps",
+    "title": "[Q108] System Containerization",
+    "text": "Brief Content",
+    "status": "On-Going",
+    "reward": "🏆 4,000 EGP Treasure",
+    "link": ""
+  },
+  {
+    "catagory": "🛠️ Backend",
+    "title": "[Q109] Review APIs",
+    "text": "Brief Content",
+    "status": "On-Going",
+    "reward": "🏆 4,200 EGP Treasure",
+    "link": ""
+  }
+]
